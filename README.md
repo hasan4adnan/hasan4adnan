@@ -1,5 +1,4 @@
--  Hi, I’m @hasan4adnan.
-- 📫 How to reach me hassanmoaid44@gmail.com
+- React Native CLI Developer.
 
 <!---
 hasan4adnan/hasan4adnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
