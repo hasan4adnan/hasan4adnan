@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hasan4adnan
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning how to code 
-- 💞️ I’m looking to collaborate on ...
+-  Hi, I’m @hasan4adnan.
 - 📫 How to reach me hassanmoaid44@gmail.com
 
 <!---
